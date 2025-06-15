@@ -1,5 +1,4 @@
-![students marks prediction](https://github.com/user-attachments/assets/a64fb5ff-4411-4f9a-9e7d-227497bbc579)
-![students marks prediction](https://github.com/user-attachments/assets/b356ae0a-f0fc-482d-bbef-dd12fca9b2ba)
+
 # Student Marks Prediction
 
 This project uses a simple *Linear Regression model* to predict student exam scores based on the number of hours studied.
@@ -36,4 +35,6 @@ The program shows:
 * A prediction for 7.5 hours of study
 
 # Author
-Nirupama 
+ * Nirupama
+
+![students marks prediction](https://github.com/user-attachments/assets/b356ae0a-f0fc-482d-bbef-dd12fca9b2ba) 
